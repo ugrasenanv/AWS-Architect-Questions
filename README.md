@@ -1,7 +1,5 @@
-# AWS-Architect-Questions
 
-
-# AWS Solution Architect Interview Questions
+# AWS Solution Architect Questions
 
 ## General Questions
 1. What is AWS?
