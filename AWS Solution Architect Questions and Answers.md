@@ -1,4 +1,4 @@
-# AWS Solution Architect Interview Questions and Answers
+# AWS Solution Architect Questions and Answers
 
 ## 1. What is AWS?
 AWS (Amazon Web Services) is a secure cloud services platform, offering computing power, database storage, content delivery, and other functionality to help businesses scale and grow.
@@ -25,7 +25,7 @@ RDS (Relational Database Service) is a managed database service that makes it ea
 VPC (Virtual Private Cloud) is a service that lets users provision a logically isolated section of the AWS cloud where they can launch AWS resources in a virtual network that they define.
 
 ## 7. What is Lambda?
-Lambda is a serverless compute service that allows users to run code without provisioning or managing servers. Users can run code in response to events and automatically manage the compute resources.
+Lambda is a serverless computing service that allows users to run code without provisioning or managing servers. Users can run code in response to events and automatically manage the compute resources.
 
 ## 8. What is IAM?
 IAM (Identity and Access Management) is a web service that helps users securely control access to AWS services and resources for their users. It allows users to create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources.
