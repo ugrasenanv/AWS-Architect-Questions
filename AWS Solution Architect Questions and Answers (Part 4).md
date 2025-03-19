@@ -254,4 +254,3 @@ Amazon Sumerian is a set of tools for creating high-quality virtual reality (VR)
 ## 385. What is AWS Greengrass?
 AWS Greengrass is an IoT open-source edge runtime and cloud service that helps build, deploy, and manage device software.
 
-## 386. What
