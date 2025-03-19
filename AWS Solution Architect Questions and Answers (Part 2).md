@@ -1,5 +1,5 @@
 
-# AWS Solution Architect Interview Questions and Answers (Part 2)
+# AWS Solution Architect Questions and Answers (Part 2)
 
 ## 101. What is AWS SAM?
 AWS SAM (Serverless Application Model) is an open-source framework that simplifies the process of building serverless applications on AWS. It provides a shorthand syntax to define the Amazon API Gateway APIs, AWS Lambda functions, and Amazon DynamoDB tables needed by your serverless application.
