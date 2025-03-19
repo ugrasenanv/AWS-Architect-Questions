@@ -1,4 +1,4 @@
-# Advanced AWS Solution Architect Interview Questions and Answers (Part 9)
+# Advanced AWS Solution Architect Questions and Answers (Part 9)
 
 ## 801. How do you implement a secure API using Amazon API Gateway and AWS Lambda?
 Implement a secure API by using Amazon API Gateway to create API endpoints and AWS Lambda to handle the backend logic. Use API Gateway features such as AWS IAM roles, API keys, and custom authorizers (Lambda authorizers) to secure access to the API. Enable logging and monitoring with CloudWatch.
